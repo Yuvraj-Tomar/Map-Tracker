@@ -1,6 +1,6 @@
 # Node modules (client & server)
-client/node_modules/
-server/node_modules/
+# client/node_modules/
+# server/node_modules/
 
 # Logs
 *.log
@@ -13,7 +13,7 @@ server/node_modules/
 .env.production.local
 
 # Build files
-client/build/
+# client/build/
 
 # OS files
 .DS_Store
